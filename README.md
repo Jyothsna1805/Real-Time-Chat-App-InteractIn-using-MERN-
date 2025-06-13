@@ -29,32 +29,6 @@ A full-stack real-time chat application built using the MERN stack with Socket.I
 - bcrypt
 - Cloudinary (for profile images)
 
-## 📂 Folder Structure
-chat-app/
-│
-├── client/ # React Frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ └── ...
-│
-├── server/ # Node.js + Express Backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── ...
-│
-└── README.md
-
-✅ Future Improvements
-
-Group chats
-Message read receipts
-Dark mode toggle
-Voice/video calling
-
 ## 📦 To Clone the Repository
 
 git clone https://github.com/Jyothsna1805/Real-Time-Chat-App-InteractIn-using-MERN-.git
