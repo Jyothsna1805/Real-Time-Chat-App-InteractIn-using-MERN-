@@ -2,6 +2,8 @@
 
 A full-stack real-time chat application built using the MERN stack with Socket.IO, allowing users to register, login, and chat with other users in real time. This project demonstrates modern web development practices including authentication, real-time messaging, and responsive UI design.
 
+![Screenshot 2025-06-14 151820](https://github.com/user-attachments/assets/4ea58196-b3d4-4c3b-9633-d666237ddfed)
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Signup & Login)
